@@ -1,7 +1,5 @@
-i c# Claire Cizdziel
-
 ### Electrical Engineering at Columbia University
-<p>
+<p style="display: flex; align-items: center; gap: 20px; font-size: 0.9em;">
   <!-- Email -->
   <a href="mailto:clairecizdziel@gmail.com" style="text-decoration:none;">
     <img src="https://img.icons8.com/ios-glyphs/30/000000/new-post.png" alt="Email" title="Email" />
