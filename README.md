@@ -1,4 +1,4 @@
-# Claire Cizdziel
+i c# Claire Cizdziel
 
 ### Electrical Engineering at Columbia University
 <a href="mailto:clairecizdziel@gmail.com">
@@ -7,10 +7,10 @@
 <a href="https://www.linkedin.com/in/claire-cizdziel/" target="_blank">
   <img src="https://img.icons8.com/ios-glyphs/30/000000/linkedin.png" alt="LinkedIn" />
 </a>
-<a href="resume.pdf" download>
+<a href="docs/assets/Claire_Cizdziel_2025_Resume.pdf" download>
   <img src="https://img.icons8.com/ios-glyphs/30/000000/open-resume.png" alt="Resume" />
 </a>
-
+###option2
 <p>
   <!-- Email -->
   <a href="mailto:clairecizdziel@gmail.com" style="text-decoration:none;">
@@ -23,7 +23,7 @@
   </a>
   
   <!-- Resume -->
-  <a href="resume.pdf" download style="text-decoration:none;">
+  <a href="docs/assets/Claire_Cizdziel_2025_Resume.pdf" download style="text-decoration:none;">
     <img src="https://img.icons8.com/ios-glyphs/30/000000/open-resume.png" alt="Resume" title="Download Resume" />
   </a>
 </p>
