@@ -3,19 +3,19 @@
 <p style="display: flex; align-items: center; gap: 10px; font-size: 0.9em;">
   <!-- Email -->
   <a href="mailto:clairecizdziel@gmail.com" style="text-decoration:none;">
-    <img src="https://img.icons8.com/ios-glyphs/30/000000/new-post.png" alt="Email" title="Email" />
+    <img src="assets/email.png" alt="Email" title="Email" style="width:20px; height:20px;" />
     clairecizdziel@gmail.com
   </a>
   
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/claire-cizdziel/" target="_blank" style="text-decoration:none;">
-    <img src="https://img.icons8.com/ios-glyphs/30/000000/linkedin.png" alt="LinkedIn" title="LinkedIn" />
+    <img src="assets/linkedin.png" alt="LinkedIn" title="LinkedIn" style="width:20px; height:20px;" />>
     LinkedIn
   </a>
   
   <!-- Resume -->
   <a href="docs/assets/Claire_Cizdziel_2025_Resume.pdf" download style="text-decoration:none;">
-    <img src="https://img.icons8.com/ios-glyphs/30/000000/download--v1.png" alt="Download Resume" title="Download Resume" />
+    <img src="assets/download.png" alt="Download Resume" title="Download Resume" style="width:20px; height:20px;" />
     Resume
   </a>
 </p>
