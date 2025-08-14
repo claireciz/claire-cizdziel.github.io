@@ -1,7 +1,6 @@
 # Claire Cizdziel
 ### Electrical Engineering at Columbia University
 <p>
-  <div style="display: flex; align-items: center; gap: 20px; font-family: sans-serif; font-size: 14px;">
   <!-- Email -->
   <a href="mailto:clairecizdziel@gmail.com" style="text-decoration:none;">
     <img src="docs/assets/email.png" alt="Email" title="Email" style="width:20px; height:20px;" />
